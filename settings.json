@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "OpBot123",
+    "username": "GamerAFK",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "SuperItens1.aternos.me",
     "port": 19975,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
